@@ -3,7 +3,7 @@ Code and input scripts supporting the paper Thermal and vibronic effects on the 
 
 Functionality:
 - Predictions of absorption spectra from
-//   a) TDDFT - static
+\\     a) TDDFT - static
 //   b) Equilibrium Harmonic Approximation
 //   c) Averaged HA
 //   d) Nuclear Ensemble Approach (Averaged TDDFT snapshots extracted from AIMD trajectory)
