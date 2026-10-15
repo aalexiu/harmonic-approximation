@@ -12,6 +12,5 @@ Functionality:
   
      d) Nuclear Ensemble Approach (averaged over TDDFT snapshots extracted from AIMD trajectory)
   
-- Compute Huang-Rhys factors to quantify exciton-phonon coupling under the harmonic approximation
 
 * QChem input scripts are also provided.
